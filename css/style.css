@@ -1,0 +1,20 @@
+header {
+    background-color: black;
+    width: 100%;
+}
+main {
+    background-image: url(img/scool.jpg);
+}
+p {
+    text-align: center;
+    font-size: x-large;
+}
+div {
+    background-color: cadetblue;
+}
+#mytable {
+    background-color: black;
+}
+#submitButton {
+    background-color: black;
+}
